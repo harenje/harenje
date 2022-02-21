@@ -1,4 +1,4 @@
-### Hi there 👋
+
 [![MasterHead](http://www.codingvilla.in/wp-content/uploads/2019/11/baner3.jpg)](https://harenje.io)
 <h1 align="center">Hi, I'm Donat Harajda</h1>
 <h3 align="center">A "want to be" Front-end Dev.</h3>
