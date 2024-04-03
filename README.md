@@ -1,17 +1,5 @@
-
-[![MasterHead](http://www.codingvilla.in/wp-content/uploads/2019/11/baner3.jpg)](https://harenje.io)
 <h1 align="center">Hi, I'm Donat Harajda</h1>
-<h3 align="center">Web Designer / Developer enthusiasts.</h3>
-
-- 🔭 I’m currently working on **Development related Projects**
-
-- 🌱 I’m currently learning **Web Design / Developement**
-
-- 👨‍💻 All of my projects are available at [N/A](N/A)
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **harajdadoni@gmail.com**
+<h3 align="center">IT System and Web dev enthusiasts</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
