@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Donat Harajda</h1>
-<h3 align="center">IT System and Web dev enthusiasts</h3>
+<h3 align="center">IT SUPPORT \ SYS ADMIN</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
